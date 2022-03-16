@@ -1,2 +1,2 @@
-uhulll
-.idea/ 
+**.idea/
+**/target/
